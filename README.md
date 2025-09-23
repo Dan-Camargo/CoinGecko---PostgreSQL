@@ -35,17 +35,17 @@ O objetivo é construir um banco de dados histórico que será posteriormente an
 
 Captura para demonstrar a quantidade de ingestões feitas:
 
-![Count Rows](https://imgur.com/a/Y30nwQI)
+![Count Rows](https://i.imgur.com/T0gYf5j.png)
 
 
 VSCode durante desenvolvimento:
 
-![VS-Code](https://imgur.com/a/H6VUwzX)
+![VS-Code](https://i.imgur.com/cQnE7wM.png)
 
 
 Execução de um Join para demonstrar a modelagem de dados
 
-![Join](https://imgur.com/a/2jkj7OI)
+![Join](https://i.imgur.com/uDpfKce.png)
 
 
 ---
