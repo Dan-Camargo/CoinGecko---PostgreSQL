@@ -12,7 +12,7 @@ O objetivo é construir um banco de dados histórico que será posteriormente an
 ## Conteúdo
 
 * [Funcionalidades](#funcionalidades)
-* [Capturas de Tela](#capturas-de-tela) (A adicionar)
+* [Capturas de Tela](#capturas-de-tela)
 * [Requisitos](#requisitos)
 * [Configuração](#configuração)
 * [Uso](#uso)
@@ -28,6 +28,25 @@ O objetivo é construir um banco de dados histórico que será posteriormente an
 * Armazena dados com timestamp para análises históricas.
 * Suporta múltiplas fontes futuras de dados.
 * Usa `.env` para gerenciamento seguro de credenciais e API keys.
+
+---
+
+## Capturas de Tela
+
+Captura para demonstrar a quantidade de ingestões feitas:
+
+![Count Rows](https://imgur.com/a/Y30nwQI)
+
+
+VSCode durante desenvolvimento:
+
+![VS-Code](https://imgur.com/a/H6VUwzX)
+
+
+Execução de um Join para demonstrar a modelagem de dados
+
+![Join](https://imgur.com/a/2jkj7OI)
+
 
 ---
 
