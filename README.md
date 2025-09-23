@@ -94,7 +94,7 @@ COINGECKO_KEY=sua_chave_api
 
 ## Uso
 
-Execute o script Python:
+Execute o script de ingestão:
 
 ```bash
 python ingest.py
@@ -106,11 +106,22 @@ python ingest.py
 
 ---
 
+Execute o script de modelagem de banco:
+
+```bash
+python database_model.py
+```
+
+
+* Insere os dados do CSV na tabela `currency_metadata`.  
+* Define `unit` como chave primária em currency_metadata.  
+* Cria chave estrangeira `unit` em `projeto` referenciando `currency_metadata(unit)`.
+
+---
+
 ## Próximos Passos / Roadmap
 
-* Expandir o banco de dados com mais fontes de dados de criptomoedas e financeiras.
-* Criar tabelas com métricas derivadas e rastreamento histórico detalhado.
+* Expandir o banco de dados com mais fontes de dados de criptomoedas e financeiras. - EM PROGRESSO
 * Realizar análise exploratória usando **Pandas** e gerar gráficos informativos.
 * Integrar com **Power BI** para dashboards e observabilidade avançada dos dados.
-* Otimizar ETL para grandes volumes de dados, garantindo performance e consistência.
 * Possível automação futura com agendamento de pipelines para atualização contínua.
