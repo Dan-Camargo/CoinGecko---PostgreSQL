@@ -1,0 +1,71 @@
+unit,currency_name,origin_country,creation_year,category,symbol_meaning,iso_code
+₾,Lari Georgiano,Geórgia,1995,Fiat,Letra do alfabeto georgiano Mkhedruli,GEL
+MX$,Peso Mexicano,México,1993,Fiat,Símbolo do dólar com sobreposição M,MXN
+S$,Dólar de Singapura,Singapura,1967,Fiat,Símbolo do dólar com S de Singapura,SGD
+₦,Naira Nigeriana,Nigéria,1973,Fiat,Letra N com duas barras horizontais,NGN
+£,Libra Esterlina,Reino Unido,1694,Fiat,Letra L de Libra com um corte,GBP
+₨,Rupia Paquistanesa,Paquistão,1948,Fiat,Símbolo de Rúpia,PKR
+Fr.,Franco Suíço,Suíça,1850,Fiat,Abreviação de Franco,CHF
+XRP,XRP,Digital,2012,Criptomoeda,Símbolo estilizado de uma gota,XRP
+₺,Lira Turca,Turquia,1923,Fiat,Lira com dois traços,TRY
+ZK,Kwacha Zambiano,Zâmbia,1968,Fiat,Iniciais de Zambian Kwacha,ZMW
+₱,Peso Filipino,Filipinas,1852,Fiat,Letra P com dois traços horizontais,PHP
+ل.ل,Libra Libanesa,Líbano,1948,Fiat,Lira libanesa em escrita árabe,LBP
+KM,Marco Conversível,Bósnia e Herzegovina,1995,Fiat,Iniciais de Konvertibilna Marka,BAM
+zł,Złoty Polonês,Polônia,1995,Fiat,Letra z e l minúsculas com um traço,PLN
+¥,Iene Japonês,Japão,1871,Fiat,Kanji para círculo ou objeto redondo,JPY
+֏,Dram Armênio,Armênia,1993,Fiat,Letra do alfabeto armênio,AMD
+Q,Quetzal Guatemalteco,Guatemala,1925,Fiat,Letra Q de Quetzal,GTQ
+DOT,Polkadot,Digital,2020,Criptomoeda,Símbolo da rede Polkadot,DOT
+EOS,EOS,Digital,2018,Criptomoeda,Logotipo da plataforma EOS.IO,EOS
+KSh,Xelim Queniano,Quênia,1966,Fiat,Iniciais de Kenyan Shilling,KES
+Ft,Forint Húngaro,Hungria,1946,Fiat,Abreviação de Forint,HUF
+kr,Coroa Dinamarquesa,Dinamarca,1875,Fiat,Abreviação de Krone,DKK
+XAG,Prata,Global,-4000,Commodity,Símbolo químico da prata (Argentum),XAG
+lei,Leu Romeno,Romênia,1867,Fiat,Palavra romena para "leão",RON
+BCH,Bitcoin Cash,Digital,2017,Criptomoeda,Versão do Bitcoin com foco em transações rápidas,BCH
+₪,Novo Shekel Israelense,Israel,1986,Fiat,Acrônimo de "Shekel Hadash",ILS
+KD,Dinar Kuwaitiano,Kuwait,1960,Fiat,Dinar do Kuwait em escrita árabe,KWD
+RM,Ringgit Malaio,Malásia,1967,Fiat,Iniciais de Ringgit Malaysia,MYR
+Rp,Rupia Indonésia,Indonésia,1946,Fiat,Abreviação de Rupiah,IDR
+HK$,Dólar de Hong Kong,Hong Kong,1863,Fiat,Símbolo do dólar com HK,HKD
+XLM,Stellar,Digital,2014,Criptomoeda,Logotipo da Stellar, um foguete estilizado,XLM
+S/,Sol Peruano,Peru,1991,Fiat,Símbolo de Sol, representando o sol Inca,PEN
+€,Euro,Zona do Euro,1999,Fiat,Letra grega épsilon estilizada,EUR
+₡,Colón Costarriquenho,Costa Rica,1896,Fiat,Letra C com dois traços verticais,CRC
+Rs,Rupia Indiana,Índia,1949,Fiat,Abreviação de Rúpias,INR
+SR,Rial Saudita,Arábia Saudita,1960,Fiat,Rial saudita em escrita árabe,SAR
+μBTC,Microbitcoin,Digital,2009,Criptomoeda,Letra grega mu e o símbolo do Bitcoin,UBTC
+DH,Dirham dos Emirados,Emirados Árabes Unidos,1973,Fiat,Dirham em escrita árabe,AED
+sats,Satoshi,Digital,2009,Criptomoeda,Menor unidade de Bitcoin,SATS
+YFI,Yearn.finance,Digital,2020,Criptomoeda,Logotipo da Yearn.finance,YFI
+฿,Baht Tailandês,Tailândia,1928,Fiat,Letra do alfabeto tailandês,THB
+NT$,Novo Dólar de Taiwan,Taiwan,1949,Fiat,Símbolo do dólar com NT,TWD
+SOL,Solana,Digital,2020,Criptomoeda,Logotipo da rede Solana,SOL
+R,Rand Sul-Africano,África do Sul,1961,Fiat,Letra R de Rand,ZAR
+BNB,Binance Coin,Digital,2017,Criptomoeda,Logotipo da Binance Coin,BNB
+₹,Rupia Indiana,Índia,1949,Fiat,Símbolo da Rúpia Indiana,INR
+R$,Real Brasileiro,Brasil,1994,Fiat,Símbolo do Real, estilização de "R$",BRL
+₩,Won Sul-Coreano,Coreia do Sul,1950,Fiat,Letra W com dois traços,KRW
+BD,Dinar Barenita,Bahrein,1965,Fiat,Dinar do Bahrein em escrita árabe,BHD
+LINK,Chainlink,Digital,2017,Criptomoeda,Logotipo do Chainlink,LINK
+NZ$,Dólar Neozelandês,Nova Zelândia,1934,Fiat,Símbolo de dólar com NZ,NZD
+RD$,Peso Dominicano,República Dominicana,1937,Fiat,Símbolo de dólar com RD,DOP
+K,Kina Papua-Nova Guiné,Papua-Nova Guiné,1975,Fiat,Letra K de Kina,PGK
+Kč,Coroa Checa,República Checa,1993,Fiat,Abreviação de Koruna Česká,CZK
+Bs.F,Bolívar Venezuelano,Venezuela,2008,Fiat,Abreviação de Bolívar Fuerte,VEF
+₽,Rublo Russo,Rússia,1992,Fiat,Letra P do alfabeto cirílico,RUB
+kr.,Coroa Sueca,Suécia,1876,Fiat,Abreviação de krona,SEK
+CA$,Dólar Canadense,Canadá,1924,Fiat,Símbolo de dólar com C de Canadá,CAD
+₴,Hryvnia Ucraniano,Ucrânia,1996,Fiat,Letra ucraniana He com dois traços,UAH
+XDR,Direitos Especiais de Saque,FMI,1969,Fiat,Iniciais de Special Drawing Rights,XDR
+৳,Taka de Bangladesh,Bangladesh,1972,Fiat,Símbolo do Taka,BDT
+A$,Dólar Australiano,Austrália,1910,Fiat,Símbolo de dólar com A de Austrália,AUD
+LTC,Litecoin,Digital,2011,Criptomoeda,Versão do Bitcoin mais leve,LTC
+L,Lek Albanês,Albânia,1926,Fiat,Inicial de Lek,ALL
+ETH,Ethereum,Digital,2015,Criptomoeda,Letra grega Xi estilizada,ETH
+$,Dólar,Estados Unidos,1792,Fiat,Símbolo do dólar,USD
+XAU,Ouro,Internacional,,Commodity,Símbolo químico do ouro,XAU
+₫,Dong Vietnamita,Vietnã,1978,Fiat,Símbolo do Dong,VND
+BTC,Bitcoin,Internacional,2009,Criptomoeda,Abreviação de Bitcoin,BTC
+CLP$,Peso Chileno,Chile,1975,Fiat,Símbolo do peso com C,CLP
