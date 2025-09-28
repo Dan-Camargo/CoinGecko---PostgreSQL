@@ -47,6 +47,13 @@ Execução de um Join para demonstrar a modelagem de dados
 
 ![Join](https://i.imgur.com/uDpfKce.png)
 
+Metabase Hosteado localmente utilizando Docker + VSCode:
+
+![Metabase+VSCode](https://i.imgur.com/aBCy28p.png)
+
+Dashboard Metabase:
+
+![Dashboard](https://i.imgur.com/228pl7z.png)
 
 ---
 
@@ -123,5 +130,5 @@ python database_model.py
 
 * Expandir o banco de dados com mais fontes de dados de criptomoedas e financeiras. - EM PROGRESSO
 * Realizar análise exploratória usando **Pandas** e gerar gráficos informativos.
-* Integrar com **Power BI** para dashboards e observabilidade avançada dos dados.
+* Integrar com **Power BI** ou **Metabase** (preferencial por ser open-source) para dashboards e observabilidade avançada dos dados.
 * Possível automação futura com agendamento de pipelines para atualização contínua.
