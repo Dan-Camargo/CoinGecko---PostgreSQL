@@ -4,8 +4,8 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-12+-blue)
 ![Status](https://img.shields.io/badge/Status-Em%20Desenvolvimento-orange)
 
-Este projeto é um script Python que busca taxas de câmbio de criptomoedas da [CoinGecko API](https://www.coingecko.com/pt/api) e insere os dados em um banco de dados PostgreSQL.
-O objetivo é construir um banco de dados histórico que será posteriormente analisado usando **Pandas**, **Power BI** e outras ferramentas de visualização.
+Este projeto se consiste em scripts Python que buscam taxas de câmbio de criptomoedas da [CoinGecko API](https://www.coingecko.com/pt/api) e inserem os dados em um banco de dados PostgreSQL.
+O objetivo é construir um banco de dados histórico que será posteriormente analisado usando **Pandas**, **Power BI** e outras ferramentas de visualização (Atualmente **METABASE** foi escolhido por ser open-source).
 
 ---
 
